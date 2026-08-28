@@ -1,0 +1,6 @@
+﻿id,name,description,price,category,stock,image,createdat
+"1","MacBook Pro 14","Powerful laptop for professional work and development.","2499","Laptop","12","/images/product/product-01.jpg","2026-01-15T10:00:00.000Z"
+"2","iPhone 17 Pro","Premium smartphone with a powerful camera system.","1199","Phone","25","/images/product/product-03.jpg","2026-02-10T10:00:00.000Z"
+"3","Apple Watch Ultra","Advanced smartwatch designed for performance and fitness.","799","Watch","18","/images/product/product-02.jpg","2026-03-05T10:00:00.000Z"
+"4","iPad Pro","High-performance tablet for creative and professional use.","1099","Tablet","9","/images/product/product-04.jpg","2026-04-20T10:00:00.000Z"
+"5","AirPods Pro","Wireless earbuds with active noise cancellation.","249","Audio","40","/images/product/product-05.jpg","2026-05-12T10:00:00.000Z"

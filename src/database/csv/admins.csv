@@ -1,0 +1,2 @@
+﻿id,firstname,lastname,email,phone,avatar,bio,role,country,city,postalcode,facebook,twitter,linkedin,github,instagram,isverified
+"1","Amir","Shekarriz","amirshekarrizdev99@gmail.com","596.202.8338","/images/user/1.jpg","Frontend Developer","Admin","Iran","Shiraz","63917","https://facebook.com","https://twitter.com","https://linkedin.com","https://github.com","https://instagram.com","True"

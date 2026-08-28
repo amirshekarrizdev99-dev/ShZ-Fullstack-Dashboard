@@ -1,0 +1,6 @@
+﻿id,product,price,category,status,image
+"1","MacBook Pro 13","2399","Laptop","Delivered","/images/product/product-01.jpg"
+"2","Apple Watch Ultra","879","Watch","Pending","/images/product/product-02.jpg"
+"3","iPhone 15 Pro","1699","Phone","Delivered","/images/product/product-03.jpg"
+"4","iPad Pro","1099","Tablet","Cancelled","/images/product/product-04.jpg"
+"5","AirPods Pro","249","Audio","Delivered","/images/product/product-05.jpg"
