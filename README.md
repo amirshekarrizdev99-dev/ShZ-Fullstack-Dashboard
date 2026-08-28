@@ -8,7 +8,7 @@ Built with **Next.js, TypeScript, Tailwind CSS, Supabase, TanStack Query, shadcn
 ## 📸 Demo
 
 
-**Live Demo:** Coming soon
+Live Demo: https://shz-fullstack-dashboard.vercel.app/
 
 ---
 
